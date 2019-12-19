@@ -1,0 +1,5 @@
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-itn_last.weights" "C:\itn2\images\500390261\500390261_(1).jpg" -save_labels -dont_show -outfile
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-itn_last.weights" "C:\itn2\images\500390261\500390261_(2).jpg" -save_labels -dont_show -outfile
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-itn_last.weights" "C:\itn2\images\500390261\500390261_(3).jpg" -save_labels -dont_show -outfile
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-itn_last.weights" "C:\itn2\images\500390261\500390261_(4).jpg" -save_labels -dont_show -outfile
+darknet_no_gpu.exe detector test C:\itn\itn.data C:\itn\yolov3-itn.cfg "C:\Users\vanbinhd\Google Drive\yolov3-itn_last.weights" "C:\itn2\images\500390261\500390261_(5).jpg" -save_labels -dont_show -outfile

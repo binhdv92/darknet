@@ -1,0 +1,767 @@
+﻿  activations.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  activation_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  art.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  avgpool_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  batchnorm_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(92,59): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(107,79): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(117,179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(139,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(140,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(141,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(142,29): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\batchnorm_layer.c(154,1): warning C4028: formal parameter 1 different from declaration
+  blas.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(99,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(122,60): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(115,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(136,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(157,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(237,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(230,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(247,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(248,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(258,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(269,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\blas.c(301,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  box.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(104,33): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(152,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(153,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(154,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(155,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(139,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(140,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(141,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(142,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(144,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(174,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(175,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(176,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(177,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(161,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(162,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(163,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(164,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(166,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(203,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(204,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(205,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(206,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(186,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(187,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(188,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(189,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(191,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(226,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(227,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(228,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(229,57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(390,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(391,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(400,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\box.c(401,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  captcha.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(31,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(87,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(88,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 5 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(88,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(88,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(88,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\captcha.c(41,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  cifar.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(9,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(31,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(32,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(32,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(32,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(32,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(34,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(24,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(57,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(79,38): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(87,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(88,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(88,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(88,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(88,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(90,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(72,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(77,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(118,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(149,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(193,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cifar.c(220,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  classifier.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(25,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(40,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(54,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(138,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(143,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(144,60): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(165,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(165,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(165,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(165,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(329,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(398,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(471,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(544,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(616,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(709,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(710,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(825,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(863,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\classifier.c(1245,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  coco.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(22,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(86,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(32,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(117,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(118,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(110,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(111,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(112,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(113,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(145,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(171,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(236,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(260,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(322,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\coco.c(368,60): warning C4305: 'function': truncation from 'double' to 'float'
+  col2im.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\col2im.c(35,55): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+  compare.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(12,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(56,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(57,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 5 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(57,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(57,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(57,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(65,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(70,54): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(43,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(88,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(196,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(197,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(198,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(199,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(234,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\compare.c(266,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  connected_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\connected_layer.c(91,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\connected_layer.c(249,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  convolutional_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(45,46): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(58,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(68,44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(493,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(360,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(506,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(664,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(686,77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(697,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(702,59): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(816,82): warning C4267: 'function': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(823,1): warning C4028: formal parameter 1 different from declaration
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(893,72): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(908,109): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(911,108): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(911,148): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(954,112): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\convolutional_layer.c(954,152): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  cost_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\cost_layer.c(75,1): warning C4028: formal parameter 1 different from declaration
+  cpu_gemm.c
+  crnn_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  crop_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\crop_layer.c(53,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\crop_layer.c(54,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  darknet.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(75,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(76,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(78,39): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(79,39): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(80,39): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(84,37): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(85,46): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(476,65): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\darknet.c(505,79): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  dark_cuda.c
+  data.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(241,48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(242,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(417,32): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(610,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(610,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(611,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(611,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(612,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(612,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(613,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(613,42): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(632,91): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(632,98): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(607,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(608,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(610,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(611,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(612,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(613,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(729,34): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(729,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(730,34): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(730,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(731,34): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(731,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(732,34): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(732,38): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(750,75): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(750,82): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(726,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(727,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(729,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(730,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(731,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(732,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(913,51): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(916,44): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(916,48): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(917,45): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(917,49): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(918,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(918,47): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(919,43): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(919,47): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(938,80): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(938,97): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(938,106): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(898,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(899,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(916,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(917,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(918,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(919,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(948,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(949,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(950,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(951,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1225,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1229,30): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1258,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1259,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1289,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\data.c(1296,30): warning C4305: 'function': truncation from 'double' to 'float'
+  deconvolutional_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\deconvolutional_layer.c(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\deconvolutional_layer.c(158,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  demo.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  detection_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(44,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(84,76): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(99,112): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(160,74): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(161,74): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(163,75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(174,119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(175,119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(178,43): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(211,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(80,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(239,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(240,79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(304,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detection_layer.c(305,63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  detector.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(52,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(58,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(73,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(153,46): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(159,57): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(160,57): warning C4244: '=': conversion from 'long double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(218,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(223,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(225,57): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(226,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(154,1): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(155,1): warning C4244: 'initializing': conversion from 'long double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(347,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(348,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(340,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(341,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(342,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(343,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(372,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(373,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(365,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(366,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(367,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(368,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(393,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(394,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(386,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(387,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(388,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(389,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(422,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(464,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(465,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(547,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(562,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(564,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(663,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(1061,34): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(683,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(684,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(1108,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(1264,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\detector.c(1417,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  dice.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(9,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(35,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(36,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 5 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(36,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(36,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(36,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(38,51): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(20,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dice.c(53,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dropout_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\dropout_layer.c(16,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  gemm.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(334,87): warning C4244: 'return': conversion from 'unsigned long' to 'uint8_t', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(393,13): warning C4068: unknown pragma
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(396,13): warning C4068: unknown pragma
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(421,87): warning C4244: 'return': conversion from 'unsigned long' to 'unsigned char', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(908,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(909,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(910,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(911,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(912,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(913,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(914,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(915,64): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1036,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1020,13): warning C4101: 'all256_last_zero': unreferenced local variable
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1025,12): warning C4101: 'all256_one': unreferenced local variable
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1023,13): warning C4101: 'idx256': unreferenced local variable
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1026,13): warning C4101: 'all256i_one': unreferenced local variable
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1124,82): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1161,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1178,45): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1622,17): warning C4101: 'all256_sing1': unreferenced local variable
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gemm.c(1757,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  getopt.c
+  gettimeofday.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\gettimeofday.c(39,101): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+  go.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(117,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(143,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(144,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(144,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(144,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(144,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(146,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(136,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(195,112): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(196,112): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(197,114): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(198,114): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(304,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(401,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(437,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(534,68): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(534,72): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(610,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(685,80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(759,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(797,64): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\go.c(797,68): warning C4305: 'function': truncation from 'double' to 'float'
+  gru_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  im2col.c
+  image.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(28,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(29,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(116,46): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(133,46): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(183,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(234,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(235,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(236,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(237,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(399,72): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(414,74): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(420,65): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(420,75): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(339,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(365,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(366,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(367,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(368,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(451,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(485,81): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(448,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(468,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(469,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(470,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(471,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(551,75): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(555,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(768,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(784,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(785,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(790,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(791,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(803,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(804,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(809,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(810,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(856,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1009,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1012,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1014,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1015,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1065,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1089,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1120,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1136,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1332,25): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1333,26): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1333,34): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1333,42): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1334,25): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1334,38): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1335,25): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1335,33): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1398,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\image.c(1572,67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  list.c
+  local_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\local_layer.c(57,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  lstm_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  matrix.c
+  Generating Code...
+  Compiling...
+  maxpool_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\maxpool_layer.c(80,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  network.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(57,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(98,107): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(103,74): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(113,65): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(115,94): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(119,73): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(121,87): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(125,118): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(741,1): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(767,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(768,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(889,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(890,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(970,144): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(977,141): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\network.c(975,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  nightmare.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(14,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(180,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(197,57): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(200,64): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(201,61): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(216,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(217,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(219,52): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(219,64): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(245,45): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(245,50): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(272,76): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(297,58): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(297,79): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(297,90): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\nightmare.c(297,101): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  normalization_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  option_list.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\option_list.c(133,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\option_list.c(140,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  parser.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(264,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(273,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(308,55): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(320,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(327,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(356,55): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(378,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(385,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(410,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(525,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(586,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(641,74): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(642,90): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(644,62): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(645,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(657,54): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(658,56): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(659,61): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(699,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\parser.c(709,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  region_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(49,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(85,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(86,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(88,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(89,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(104,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(105,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(101,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(102,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(165,25): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(170,20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(266,78): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(285,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(286,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(293,107): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(311,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(312,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(362,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(230,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(261,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(300,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(493,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(494,73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\region_layer.c(532,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  reorg_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  reorg_old_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  rnn.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(127,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(162,12): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 5 has type 'size_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(162,12): message : consider using '%zd' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(187,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(159,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(246,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(376,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(344,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(355,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(417,35): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(396,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(407,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(435,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(448,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(481,56): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\rnn.c(482,59): warning C4244: 'function': conversion from 'time_t' to 'int', possible loss of data
+  rnn_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  rnn_vid.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  route_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  shortcut_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  softmax_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  super.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\super.c(11,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\super.c(54,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\super.c(21,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  swag.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\swag.c(12,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\swag.c(62,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\swag.c(22,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  tag.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(7,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(62,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(63,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(63,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(63,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(63,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(66,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\tag.c(51,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  tree.c
+  upsample_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  utils.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(111,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(216,1): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(217,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(382,25): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(394,24): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'size_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(394,24): message : consider using '%zd' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(400,36): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(430,48): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(441,52): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(452,48): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(462,52): warning C4267: 'function': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(515,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(516,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(517,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(588,57): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(589,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(597,23): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(609,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(604,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(627,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(641,31): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(654,29): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(733,40): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(743,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\utils.c(790,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  voxel.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\voxel.c(46,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\voxel.c(89,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\voxel.c(56,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  writing.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(8,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(67,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(68,16): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 7 has type 'uint64_t'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(68,16): message : consider using '%lld' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(68,16): message : consider using '%Id' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(68,16): message : consider using '%I64d' in the format string
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(76,32): warning C4244: '=': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\writing.c(39,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  yolo.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(15,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(71,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(25,1): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(97,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(98,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(90,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(91,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(92,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(93,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(115,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(141,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(203,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(227,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(292,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo.c(336,60): warning C4305: 'function': truncation from 'double' to 'float'
+  yolo_layer.c
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(73,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(126,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(127,55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(138,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(139,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(280,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(281,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(317,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(240,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(262,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(274,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(304,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(347,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(348,68): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\yolo_layer.c(398,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  http_stream.cpp
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(103,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(181,28): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(215,24): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(216,24): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(227,24): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(228,32): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(240,48): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(241,32): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\vanbinhd\Documents\GitHub\darknet\src\http_stream.cpp(527,104): warning C4244: 'return': conversion from '_Rep' to 'double', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  image_opencv.cpp
+  Generating Code...
+opencv_world320d.dll : fatal error LNK1107: invalid or corrupt file: cannot read at 0x400

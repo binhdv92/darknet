@@ -772,7 +772,7 @@ network parse_network_cfg_custom(char *filename, int batch, int time_steps)
     fprintf(stderr, "layer     filters    size              input                output\n");
     while(n){
         params.index = count;
-        fprintf(stderr, "%4d ", count);
+        // fprintf(stderr, "%4d ", count);
         s = (section *)n->val;
         options = s->options;
         layer l = { (LAYER_TYPE)0 };

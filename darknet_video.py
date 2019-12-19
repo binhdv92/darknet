@@ -42,9 +42,12 @@ altNames = None
 def YOLO():
 
     global metaMain, netMain, altNames
-    configPath = "./cfg/yolov3.cfg"
-    weightPath = "./yolov3.weights"
-    metaPath = "./cfg/coco.data"
+    #configPath = "./cfg/yolov3.cfg"
+    #weightPath = "./yolov3.weights"
+    #metaPath = "./cfg/coco.data"
+    configPath = "./build/darknet/x64/itn_fullbox/yolov3-itn-fullbox.cfg"
+    weightPath = "C:/Users/vanbinhd/Google Drive/backup/yolov3-itn-fullbox_last.weights"
+    metaPath = "./build/darknet/x64/itn_fullbox/itn_fullbox.data"
     if not os.path.exists(configPath):
         raise ValueError("Invalid config path `" +
                          os.path.abspath(configPath)+"`")
@@ -80,7 +83,7 @@ def YOLO():
         except Exception:
             pass
     #cap = cv2.VideoCapture(0)
-    cap = cv2.VideoCapture("test.mp4")
+    cap = cv2.VideoCapture("./build/darknet/x64/itn_fullbox/WIN_20191119_23_05_06_Pro.mp4")
     cap.set(3, 1280)
     cap.set(4, 720)
     out = cv2.VideoWriter(

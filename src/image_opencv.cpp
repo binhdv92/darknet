@@ -869,9 +869,9 @@ void draw_detections_cv_v3(mat_cv* mat, detection *dets, int num, float thresh, 
                     if (class_id < 0) {
                         strcat(labelstr, names[j]);
                         class_id = j;
-                        char buff[10];
-                        sprintf(buff, " (%2.0f%%)", dets[i].prob[j] * 100);
-                        strcat(labelstr, buff);
+                        // char buff[10];
+                        // sprintf(buff, " (%2.0f%%)", dets[i].prob[j] * 100);
+                        // strcat(labelstr, buff);
                     }
                     else {
                         strcat(labelstr, ", ");

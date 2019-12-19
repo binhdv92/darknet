@@ -1,0 +1,60 @@
+﻿  parser.c
+C:\darknet\src\activations.h(28,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\darknet\src\activations.h(84,56): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\darknet\src\parser.c(264,64): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\darknet\src\parser.c(273,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\darknet\src\parser.c(308,55): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(320,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\darknet\src\parser.c(327,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\darknet\src\parser.c(356,55): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(378,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\darknet\src\parser.c(385,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\darknet\src\parser.c(410,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(525,60): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(586,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\darknet\src\parser.c(641,74): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(642,90): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(644,62): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(645,59): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(657,54): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(658,56): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(659,61): warning C4305: 'function': truncation from 'double' to 'float'
+C:\darknet\src\parser.c(699,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\darknet\src\parser.c(709,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  83 of 1315 functions ( 6.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+image_opencv.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+list.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+local_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+lstm_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+matrix.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+maxpool_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+network.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+nightmare.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+normalization_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+option_list.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+parser.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+region_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+reorg_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+reorg_old_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+rnn.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+rnn_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+rnn_vid.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+route_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+shortcut_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+softmax_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+super.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+swag.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+tag.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+tree.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+upsample_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+utils.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+voxel.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+writing.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+yolo.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+yolo_layer.obj : warning LNK4020: a type record in 'c:\darknet\build\darknet\x64\nogpu_release\vc142.pdb' is corrupted; some symbols and types may not be accessible from the debugger
+  darknet_no_gpu.vcxproj -> C:\darknet\build\darknet\x64\darknet_no_gpu.exe

@@ -28,9 +28,11 @@ Windows Python 2.7 version: https://github.com/AlexeyAB/darknet/blob/fc496d52bf2
 """
 #pylint: disable=R, W0401, W0614, W0703
 from ctypes import *
+import ctypes
 import math
 import random
 import os
+
 
 def sample(probs):
     s = sum(probs)
@@ -76,12 +78,15 @@ class METADATA(Structure):
 
 #lib = CDLL("/home/pjreddie/documents/darknet/libdarknet.so", RTLD_GLOBAL)
 #lib = CDLL("libdarknet.so", RTLD_GLOBAL)
-hasGPU = True
+hasGPU = False
 if os.name == "nt":
-    cwd = os.path.dirname(__file__)
+    # cwd = os.path.dirname(__file__)
+    cwd = "C:\\darknet"
     os.environ['PATH'] = cwd + ';' + os.environ['PATH']
     winGPUdll = os.path.join(cwd, "yolo_cpp_dll.dll")
-    winNoGPUdll = os.path.join(cwd, "yolo_cpp_dll_nogpu.dll")
+    winNoGPUdll = os.path.join(cwd, "yolo_cpp_dll_no_gpu.dll")
+    #winGPUdll = "C:/darknet/build/darknet/x64/yolo_cpp_dll.dll"
+    #winNoGPUdll = "C:/darknet/build/darknet/x64/yolo_cpp_dll_nogpu.dll"
     envKeys = list()
     for k, v in os.environ.items():
         envKeys.append(k)
@@ -99,6 +104,7 @@ if os.name == "nt":
                     raise ValueError("ForceCPU")
             try:
                 global DARKNET_FORCE_CPU
+                DARKNET_FORCE_CPU = True
                 if DARKNET_FORCE_CPU:
                     raise ValueError("ForceCPU")
             except NameError:
@@ -120,6 +126,9 @@ if os.name == "nt":
             print("Environment variables indicated a CPU run, but we didn't find `"+winNoGPUdll+"`. Trying a GPU run anyway.")
 else:
     lib = CDLL("./libdarknet.so", RTLD_GLOBAL)
+
+# winNoGPUdll = "C:\\darknet\\build\\darknet\\x64\\yolo_cpp_dll_no_gpu.dll"
+#lib = ctypes.WinDLL(winNoGPUdll,RTLD_GLOBAL)
 lib.network_width.argtypes = [c_void_p]
 lib.network_width.restype = c_int
 lib.network_height.argtypes = [c_void_p]
