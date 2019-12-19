@@ -1300,9 +1300,9 @@ void test_detector(char *datacfg, char *cfgfile, char *weightfile, char *filenam
         detection *dets = get_network_boxes(&net, im.w, im.h, thresh, hier_thresh, 0, 1, &nboxes, letterbox);
         if (nms) do_nms_sort(dets, nboxes, l.classes, nms);
         draw_detections_v3(im, dets, nboxes, thresh, names, alphabet, l.classes, ext_output);
-        char labelpath[4096];
-        replace_image_to_label(input, labelpath);
-        save_image(im, labelpath);
+        // char labelpath[4096];
+        // replace_image_to_label(input, labelpath);
+        save_image(im, "Detection_out");
 		// pseudo labeling concept - fast.ai
 		
         if (save_labels)
@@ -1335,7 +1335,7 @@ void test_detector(char *datacfg, char *cfgfile, char *weightfile, char *filenam
         }
 		
         if (!dont_show) {
-            show_image(im, "predictions");
+            show_image(im, "Dection_out");
         }
 
         if (outfile) {
