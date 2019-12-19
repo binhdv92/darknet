@@ -17,8 +17,8 @@ convnet/
 decaf/
 submission/
 cfg/
-build/darknet/itn_fullbox
-build/darknet/itn2
+build/darknet/x64/itn_fullbox
+build/darknet/x64/itn2
 build_*/
 !build/darknet/YoloWrapper.cs
 .fuse*
