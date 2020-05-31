@@ -1,0 +1,5 @@
+classes= 1
+train  = kaggle/dataset/train_images_perfix.csv
+valid  = kaggle/dataset/valid_images_perfix.csv
+names  = kaggle/dataset/UnitOutOffPackage.names
+backup = /content/gdrive/My\ Drive/backup_UnitOutOffPackage
