@@ -1,5 +1,5 @@
 classes= 1
-train  = /content/kaggle/dataset/train_images_perfix.csv
-valid  = /content/kaggle/dataset/valid_images_perfix.csv
+train  = /content/kaggle/dataset/train_perfix.csv
+valid  = /content/kaggle/dataset/validation_perfix.csv
 names  = /content/darknet/cfg/UnitOutOffPackage.names
 backup = /content/gdrive/My\ Drive/backup_UnitOutOffPackage
