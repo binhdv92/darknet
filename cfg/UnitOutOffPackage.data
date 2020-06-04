@@ -1,6 +1,6 @@
 classes= 1
-train  = kaggle/dataset/train.csv
-valid  = kaggle/dataset/valid.csv
-test  =  kaggle/dataset/test.csv
+train  = kaggle/train.csv
+valid  = kaggle/valid.csv
+test  =  kaggle/test.csv
 names  = cfg/UnitOutOffPackage.names
 backup = /content/gdrive/My\ Drive/backup_UnitOutOffPackage
